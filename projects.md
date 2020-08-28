@@ -1,7 +1,7 @@
 # Projects
 
-# Dementia Classification
+## Dementia Classification
 
-# Bigmart Sales Prediction
+## Bigmart Sales Prediction
 
-# Employee Attrition Classification
+## Employee Attrition Classification
